@@ -19,7 +19,5 @@ def main():
 
 if __name__ == '__main__':
     main()
-	print(12345678)
-	print(987654321)
-	print(1+2)
+
 
