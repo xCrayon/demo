@@ -22,4 +22,4 @@ if __name__ == '__main__':
 	print(12345678)
 	print(987654321)
 	print(1+2)
-
+    print(2/1)
